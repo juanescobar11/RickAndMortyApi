@@ -1,0 +1,29 @@
+
+body{
+    background-color: rgb(41, 56, 68);
+}
+#personajes{
+    margin: 10px;
+    padding: 20px;
+    background-color:rgb(105, 126, 83);
+    display:flex;
+    flex-wrap: wrap;
+    border-radius: 10px;
+    
+
+}
+
+.div{
+    padding-right: 50px;
+}
+.header{
+    margin: 10px;
+    padding: 10px;
+    background-color:rgb(86, 169, 86);
+    display:flex;
+    flex-wrap: wrap;
+  
+    border-radius: 10px;
+    text-align: center;
+
+}
